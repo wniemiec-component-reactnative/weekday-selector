@@ -17,11 +17,11 @@ React Native component that lets you select days of the week.
 
 ## 🖼 Gallery
 
-![img1](https://github.com/williamniemiec/nForum/blob/master/docs/img/img1.jpg)
+![img1](https://github.com/williamniemiec/nForum/blob/master/docs/img/img1.png)
 
-![img2](https://github.com/williamniemiec/nForum/blob/master/docs/img/img1.jpg)
+![img2](https://github.com/williamniemiec/nForum/blob/master/docs/img/img2.png)
 
-![img3](https://github.com/williamniemiec/nForum/blob/master/docs/img/img1.jpg)
+![img3](https://github.com/williamniemiec/nForum/blob/master/docs/img/img3.png)
 
 ## ❓ How to use
 1. Install the component
@@ -56,6 +56,8 @@ function handleWeekDay(weekday, selected) {
 |onPress |`function(number, bool): void`|Function that is called when a weekday is selected|`null`|
 |reduced |`bool`|Indicates whether the days of the week should be displayed in abbreviated form |`false`|
 |selectedOps |`array: number`|Pre-selected weekdays |`[]`|
+|bgColor |`string`|Background color (in hexadecimal)  |`#01786F`|
+|fgColor |`string`|Foreground color (in hexadecimal)  |`#FFFFFF`|
 
 ## 🚩 Changelog
 Details about each version are documented in the [releases section](https://github.com/williamniemiec/nForum/releases).

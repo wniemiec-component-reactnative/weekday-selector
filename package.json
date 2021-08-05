@@ -16,7 +16,7 @@
     "selector",
     "days-of-week"
   ],
-  "author": "William Niemiec",
+  "author": "William Niemiec <williamniemiec@hotmail.com> (https://www.linkedin.com/in/williamniemiec)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/wniemiec-components-reactnative/weekday-selector/issues"
