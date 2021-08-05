@@ -17,11 +17,15 @@ React Native component that lets you select days of the week.
 
 ## 🖼 Gallery
 
-![img1](https://github.com/wniemiec-components-reactnative/weekday-selector/blob/master/docs/img/img1.jpg)
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; flex-wrap: wrap"
+<img height=400 src="https://raw.githubusercontent.com/wniemiec-components-reactnative/weekday-selector/master/docs/img/screens/img1.png" alt="image 1" />
 
-![img2](https://github.com/wniemiec-components-reactnative/weekday-selector/blob/master/docs/img/img2.jpg)
+<img height=400 src="https://raw.githubusercontent.com/wniemiec-components-reactnative/weekday-selector/master/docs/img/screens/img2.png" alt="image 2" />
 
-![img3](https://github.com/wniemiec-components-reactnative/weekday-selector/blob/master/docs/img/img3.jpg)
+<img height=400 src="https://raw.githubusercontent.com/wniemiec-components-reactnative/weekday-selector/master/docs/img/screens/img3.png" alt="image 3" />
+
+<img height=400 src="https://raw.githubusercontent.com/wniemiec-components-reactnative/weekday-selector/master/docs/img/screens/img4.png" alt="image 4" />
+</div>
 
 ## ❓ How to use
 1. Install the component
@@ -55,7 +59,7 @@ function handleWeekDay(weekday, selected) {
 |----------------|-------------------------------|-----------------------------|--------|
 |onPress |`function(number, bool): void`|Function that is called when a weekday is selected|`null`|
 |reduced |`bool`|Indicates whether the days of the week should be displayed in abbreviated form |`false`|
-|selectedOps |`array: number`|Pre-selected weekdays |`[]`|
+|selectedOps |`array: number`|Pre-selected weekdays (starting with 0) |`[]`|
 |bgColor |`string`|Background color (in hexadecimal)  |`#01786F`|
 |fgColor |`string`|Foreground color (in hexadecimal)  |`#FFFFFF`|
 
