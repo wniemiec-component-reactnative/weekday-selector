@@ -17,21 +17,21 @@ React Native component that lets you select days of the week.
 
 ## 🖼 Gallery
 
-![img1](https://github.com/williamniemiec/nForum/blob/master/docs/img/img1.jpg)
+![img1](https://github.com/wniemiec-components-reactnative/weekday-selector/blob/master/docs/img/img1.jpg)
 
-![img2](https://github.com/williamniemiec/nForum/blob/master/docs/img/img1.jpg)
+![img2](https://github.com/wniemiec-components-reactnative/weekday-selector/blob/master/docs/img/img2.jpg)
 
-![img3](https://github.com/williamniemiec/nForum/blob/master/docs/img/img1.jpg)
+![img3](https://github.com/wniemiec-components-reactnative/weekday-selector/blob/master/docs/img/img3.jpg)
 
 ## ❓ How to use
 1. Install the component
 ```
-$ npm install --save @wniemiec.component.reactnative/weekday-selector
+$ npm install --save @wniemiec-component-reactnative/weekday-selector
 ```
 
 2. Import the component
 ```
-import WeekdaySelector from '@wniemiec.component.reactnative/weekday-selector';
+import WeekdaySelector from '@wniemiec-component-reactnative/weekday-selector';
 ```
 
 3. Use it
@@ -58,7 +58,7 @@ function handleWeekDay(weekday, selected) {
 |selectedOps |`array: number`|Pre-selected weekdays |`[]`|
 
 ## 🚩 Changelog
-Details about each version are documented in the [releases section](https://github.com/williamniemiec/nForum/releases).
+Details about each version are documented in the [releases section](https://github.com/williamniemiec/wniemiec-components-reactnative/weekday-selector/releases).
 
 ## 🤝 Contribute!
 See the documentation on how you can contribute to the project [here](https://github.com/wniemiec-components-reactnative/weekday-selector/blob/master/CONTRIBUTING.md).
