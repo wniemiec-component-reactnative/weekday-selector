@@ -17,8 +17,8 @@ const getLanguageByDevice = () => {
 }
 
 I18n.translations = {
-  'en_US': en,
-  'pt_BR': pt,
+  'en_US': {...I18n.translations['en_US'], ...en},
+  'pt_BR': {...I18n.translations['pt_BR'], ...pt},
 }
 
 const setLanguageToI18n = () => {
