@@ -12,7 +12,7 @@ import React, { useEffect, useState } from 'react';
 import { View } from 'react-native';
 import styles from './styles';
 import SelectableButton from '@wniemiec-component-reactnative/selectable-button';
-import { translate } from './locales';
+import { translate } from '../locales';
 
 /**
  * Component that lets you select days of the week.

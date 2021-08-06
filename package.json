@@ -1,6 +1,6 @@
 {
   "name": "@wniemiec-component-reactnative/weekday-selector",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Component that lets you select days of the week",
   "main": "index.js",
   "repository": {
