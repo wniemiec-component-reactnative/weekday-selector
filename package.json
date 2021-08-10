@@ -1,11 +1,11 @@
 {
   "name": "@wniemiec-component-reactnative/weekday-selector",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Component that lets you select days of the week",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wniemiec-components-reactnative/weekday-selector.git"
+    "url": "git+https://github.com/wniemiec-component-reactnative/weekday-selector.git"
   },
   "keywords": [
     "wniemiec",
@@ -19,9 +19,9 @@
   "author": "William Niemiec <williamniemiec@hotmail.com> (https://www.linkedin.com/in/williamniemiec)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wniemiec-components-reactnative/weekday-selector/issues"
+    "url": "https://github.com/wniemiec-component-reactnative/weekday-selector/issues"
   },
-  "homepage": "https://github.com/wniemiec-components-reactnative/weekday-selector",
+  "homepage": "https://github.com/wniemiec-component-reactnative/weekday-selector",
   "dependencies": {
     "@wniemiec-component-reactnative/selectable-button": "^1.0.0"
   }
